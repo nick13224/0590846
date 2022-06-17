@@ -1,0 +1,25 @@
+@charset "utf-8";
+header {
+	background-image: url(assets/pexels-stefan-stefancik-919606.jpg);
+	width: 100%;
+	height: 400px;
+	background-position: center center;
+	background-size: cover;
+	text-align: center;
+	padding-top: 204px;
+}
+h1 {
+	color: #FFFFFF;
+}
+body header p {
+	height: 50px;
+	width: 100%;
+	background-color: #F09EA0;
+	text-align: center;
+	text-decoration: line-through;
+	line-height: 3;
+	color: #D4500B;
+	border-radius: 37px;
+	justify-content: center;
+	margin-top: 0px;
+}
